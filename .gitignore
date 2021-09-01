@@ -1,4 +1,5 @@
 ignored.txt
 hello.txt
 logs/
-images/*.txt
+#images/*.txt
+images/
